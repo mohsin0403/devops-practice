@@ -1,0 +1,22 @@
+# System files
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# Logs
+*.log
+
+# Backup files
+*.tar.gz
+*.zip
+
+# Python caches (if any scripts use Python)
+__pycache__/
+*.pyc
+
+# Node / JS projects (if any)
+node_modules/
+
+# Credentials
+*.env
